@@ -2,8 +2,8 @@
 
 ## Grupo
 ### Integrantes
-* 52897 - Mesapelle, Giani
 * 47359 - Lapunzina, Luciano
+* 52987 - Mesapelle, Giani
 * _____ - ___, ___
 
 ### Repositorios
