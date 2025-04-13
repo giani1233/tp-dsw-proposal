@@ -16,7 +16,7 @@
 Plataforma web diseñada para facilitar la organización y asistencia a actividades. Los organizadores podrán crear, administrar y promocionar sus eventos, proporcionando detalles como precio, ubicación, descripción, etc. Los usuarios, por su parte, podrán explorar los eventos disponibles para su ubicación y fechas de preferencia. Además podrán adquirir las entradas a los mismos de manera sencilla y segura.
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](https://imgur.com/a/golBROA)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
