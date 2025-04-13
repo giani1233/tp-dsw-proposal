@@ -34,8 +34,8 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Organizador<br>7. CRUD Usuario<br>8. Crud Pago|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Organizador<br>7. CRUD Usuario<br>8. CRUD Pago|
+|CUU/Epic|1. Consultar eventos disponibles<br>2. Realizar compra de entradas para evento<br>3. Realizar el check-out y facturación de estadía y servicios|
 
 
 ### Alcance Adicional Voluntario
