@@ -2,7 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 52897 - Mesapelle, Giani
+* _____ - ___, ___
+* _____ - ___, ___
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
