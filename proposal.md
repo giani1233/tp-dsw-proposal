@@ -44,5 +44,5 @@ Adicionales para Aprobación
 |:-|:-|
 |Listados |1. Listado de categorías, muestra nombre de categorías|
 |CUU/Epic|1. Reembolsar entrada|
-|Otros|1. Envío de recordatorio por email|
+|Otros|1. Envío de recordatorio por email<br>2. Envío de entradas por mail|
 
