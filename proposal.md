@@ -2,9 +2,10 @@
 
 ## Grupo
 ### Integrantes
+* 50749 - Coux, Francisco Julián
 * 47359 - Lapunzina, Luciano
 * 52987 - Mesapelle, Giani
-* _____ - ___, ___
+
 
 ### Repositorios
 * [frontend app](https://github.com/giani1233/TP-DSW-2025/blob/main/frontend)
