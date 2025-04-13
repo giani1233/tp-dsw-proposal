@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * 52897 - Mesapelle, Giani
-* _____ - ___, ___
+* 47359 - Lapunzina, Luciano
 * _____ - ___, ___
 
 ### Repositorios
