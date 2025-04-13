@@ -35,16 +35,14 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Organizador<br>7. CRUD Usuario<br>8. CRUD Pago|
-|CUU/Epic|1. Consultar eventos disponibles<br>2. Realizar compra de entradas para evento<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Consultar eventos disponibles<br>2. Realizar compra de entradas para evento<br>3. Registrarse|
 
 
 ### Alcance Adicional Voluntario
 
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
-
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. Listado de categorías, muestra nombre de categorías|
+|CUU/Epic|1. Reembolsar entrada|
+|Otros|1. Envío de recordatorio por email|
 
