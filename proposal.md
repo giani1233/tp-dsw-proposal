@@ -16,7 +16,7 @@
 Plataforma web diseñada para facilitar la organización y asistencia a actividades. Los organizadores podrán crear, administrar y promocionar sus eventos, proporcionando detalles como precio, ubicación, descripción, etc. Los usuarios, por su parte, podrán explorar los eventos disponibles para su ubicación y fechas de preferencia. Además podrán adquirir las entradas a los mismos de manera sencilla y segura.
 
 ### Modelo
-![imagen del modelo](https://github.com/giani1233/TP-DSW-2025/blob/main/MD%20TP%20DSW%20(1).jpg)
+![imagen del modelo](https://github.com/giani1233/TP-DSW-2025/blob/main/MD%20Eventos.jpg)
 
 ## Alcance Funcional 
 
