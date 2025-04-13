@@ -9,7 +9,6 @@
 ### Repositorios
 * [frontend app](https://github.com/giani1233/TP-DSW-2025/blob/main/frontend)
 * [backend app](https://github.com/giani1233/TP-DSW-2025/blob/main/backend)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 ### Descripción
