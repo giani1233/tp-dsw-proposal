@@ -4,7 +4,7 @@
 ### Integrantes
 * 50749 - Coux, Francisco Julián
 * 47359 - Lapunzina, Luciano
-* 52987 - Mesapelle, Giani
+* 52897 - Mesapelle, Giani
 
 
 ### Repositorios
