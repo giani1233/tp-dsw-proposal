@@ -34,7 +34,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Organizador<br>7. CRUD Usuario<br>8. CRUD Pago|
+|CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Organizador<br>7. CRUD Cliente<br>8. CRUD Pago|
 |CUU/Epic|1. Consultar eventos disponibles<br>2. Realizar compra de entradas para evento<br>3. Registrarse|
 
 
