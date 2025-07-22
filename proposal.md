@@ -8,8 +8,8 @@
 
 
 ### Repositorios
-* [frontend app](https://github.com/giani1233/TP-DSW-2025/blob/main/frontend)
-* [backend app](https://github.com/giani1233/TP-DSW-2025/blob/main/backend)
+* [frontend app](https://github.com/giani1233/tp-dsw-frontend)
+* [backend app](https://github.com/giani1233/tp-dsw-backend)
 
 ## Tema
 ### Descripción
