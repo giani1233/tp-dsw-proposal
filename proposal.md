@@ -28,14 +28,14 @@ Regularidad:
 |CRUD simple|1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Usuario|
 |CRUD dependiente|1. CRUD Evento {depende de} CRUD Categoria <br>2. CRUD Direccion {depende de} CRUD Localidad|
 |Listado<br>+<br>detalle| 1. Listado de eventos filtrado por localidad, rango de fechas y categoria => detalle precios y ubicaciones<br> 2. Listado de entradas filtrado por evento, muestra numero de entrada => detalle muestra datos del cliente|
-|CUU/Epic|1. Cargar evento <br>2. Realizar compra de entradas para evento|
+|CUU/Epic|1. Cargar evento <br>2. Registrarse|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Usuario<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Localidad<br>7. CRUD Pago<br>|
-|CUU/Epic|1. Cargar evento<br>2. Realizar compra de entradas para evento<br>3. Consultar eventos disponibles<br>4. Registrarse|
+|CUU/Epic|1. Cargar evento<br>2. Registrarse<br>3. Consultar eventos disponibles<br>4. Realizar compra de entradas para evento|
 
 
 ### Alcance Adicional Voluntario
