@@ -27,7 +27,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Usuario|
 |CRUD dependiente|1. CRUD Evento {depende de} CRUD Categoria <br>2. CRUD Direccion {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de eventos filtrado por localidad, rango de fechas y categoria => detalle precios y ubicaciones<br> 2. Listado de entradas filtrado por evento, muestra numero de entrada => detalle muestra datos del cliente|
+|Listado<br>+<br>detalle| 1. Listado de eventos filtrado por categoría y nombre => detalle precio, ubicación, nombre, descripción, edad mínima y cupos disponibles<br> 2. Listado de clientes filtrados por nombre => detalle datos del cliente|
 |CUU/Epic|1. Cargar evento <br>2. Registrarse|
 
 
