@@ -25,7 +25,7 @@ Plataforma web diseñada para facilitar la organización y asistencia a activida
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Usuario|
+|CRUD simple|1. CRUD Categoria<br>2. CRUD Provincia<br>3. CRUD Usuario|
 |CRUD dependiente|1. CRUD Evento {depende de} CRUD Categoria <br>2. CRUD Direccion {depende de} CRUD Localidad|
 |Listado<br>+<br>detalle| 1. Listado de eventos filtrado por categoría y nombre => detalle precio, ubicación, nombre, descripción, edad mínima y cupos disponibles<br> 2. Listado de clientes filtrados por nombre => detalle datos del cliente|
 |CUU/Epic|1. Cargar evento <br>2. Registrarse|
@@ -34,7 +34,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Categoria<br>2. CRUD Entrada<br>3. CRUD Usuario<br>4. CRUD Provincia<br>5. CRUD Evento<br>6. CRUD Localidad<br>7. CRUD Pago<br>|
+|CRUD |1. CRUD Categoria<br>2. CRUD Provincia<br>3. CRUD Usuario<br>4. CRUD Entrada<br>5. CRUD Evento<br>6. CRUD Localidad<br>7. CRUD Pago<br>|
 |CUU/Epic|1. Cargar evento<br>2. Registrarse<br>3. Consultar eventos disponibles<br>4. Realizar compra de entradas para evento|
 
 
